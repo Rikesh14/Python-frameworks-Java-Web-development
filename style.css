@@ -1,0 +1,68 @@
+.box{
+    background-color:  white;;
+    position: relative;
+    top: 100px;
+    left: 400px;
+    border: 0.1px solid white;
+    width: 400px;
+    height: 370px;
+    border-radius: 20px;
+    padding-top: 30px;
+    padding-inline-start: 3px;
+    box-shadow: 50px 50px 100px #888888
+}
+.box1{
+ background-color: white;
+ font-size: 17px;
+ border: 2px solid whitesmoke;
+ text-decoration-color: black;
+ height: 50px;
+ width: 250px;
+ border-radius: 5px;
+}
+.box2{
+    background-color: white;
+    font-size: 17px;
+    border: 2px solid whitesmoke;
+    text-decoration-color: black;
+    height: 50px;
+    width: 250px;
+    border-radius: 5px;
+   }
+.button1{
+    background-color: blue;
+    border: 1px solid WHITE;
+    color: white;
+    font-size: 18px;
+    border-radius: 5px;
+    width: 250px;
+    height: 50px;
+    cursor: pointer; 
+}
+a{
+    color: blue;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+hr{
+    color: whitesmoke;
+    width: 350px;
+}
+.button2{
+    padding: 10px 20px;
+    background-color: rgb(12, 179, 12);
+    border: 1px solid white;
+    color: white;
+    font-size: 15px;
+    border-radius: 10px;
+    width: 170px;
+    height: 60px;
+    cursor: pointer; 
+}
+.button1:hover{
+background-color: rgb(0, 0, 58);
+}
+.button2:hover{
+    background-color:   rgb(9, 255, 0);
